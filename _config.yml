@@ -1,6 +1,10 @@
 title: Tailwind Jekyll Starter Kit
 description: A starter kit for using Tailwind with Jekyll https://play.tailwindcss.com/YelhilBeHb
 
+baseurl: "/jekyll-starter-tailwind" # the subpath of your site, e.g. /blog
+url: "https://kristenzirkler.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  kristenzirkler
+
 exclude:
   - Gemfile
   - Gemfile.lock
